@@ -6,6 +6,7 @@
  */
 
 require('./bootstrap');
+require('filterizr/src/jquery.filterizr.js');
 
 window.Vue = require('vue');
 
